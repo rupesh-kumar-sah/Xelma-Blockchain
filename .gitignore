@@ -16,7 +16,6 @@ node_modules/
 bindings/dist/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -27,3 +26,4 @@ bindings/dist/
 Thumbs.db
 CLAUDE.md
 plan.md
+config.bat
